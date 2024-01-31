@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------//
-/* Basic C++ program to create a simple calculator using switch statement */
+// Basic C++ program to create a simple calculator using switch statement //
 // -----------------------------------------------------------------------//
 
 #include <iostream>
